@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+title: Udacity Google India Scholarship program
+desc: List of projects created as part of Udacity Android Basics course
+plugins:
+  - jemoji
+github:
+  is_project_page: true
